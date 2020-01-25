@@ -2,7 +2,7 @@
     "name": "kemrash/newwindowsopen",
     "type": "phpbb-extension",
     "description": "Открывает сторонние ссылки в новом окне и ставит параметр rel = nofollow. Урезанная External Link In New Window от Martin.",
-    "homepage": "",
+    "homepage": "https://www.phpbbguru.net/community/viewtopic.php?f=59&t=50151",
     "version": "0.0.1",
     "time": "2020-01-25",
     "license": "GPL-2.0-only",
@@ -10,7 +10,7 @@
         {
             "name": "KEMnEP",
             "email": "",
-            "homepage": "https://www.phpbbguru.net/community/viewtopic.php?f=59&t=50151",
+            "homepage": "",
             "role": ""
         },
         {
