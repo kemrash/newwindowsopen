@@ -1,0 +1,6 @@
+services:
+    kemnep.qw.listener:
+        class: kemrash\newwindowsopen\event\listener
+
+        tags:
+            - { name: event.listener }
