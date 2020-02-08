@@ -1,5 +1,5 @@
 services:
-    kemnep.qw.listener:
+    kemnep.newwindowsopen.listener:
         class: kemrash\newwindowsopen\event\listener
 
         tags:
